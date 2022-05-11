@@ -1,9 +1,9 @@
 # BotOS
-A Terminal Operating System (kind of)
+A Terminal Operating System (inside a Terminal)
 
 # About BotOS
-This program is created mostly in python.(with some help from sheel commands)
-This was a really interesting and fun experince. I spend weeks on making this with a little help from google. I really learned alot from this and I hope those who want to contribute may enjoy this aswell as I do.
+This program is created mostly in python with some shell commands inside the script.
+This was a really interesting and fun experince. I spend weeks on making this with the little knowlegle I had about python. I learned so much from this  and I hope some day someone makes a distro of their own!
 
 # System Requirements
 As far as I know, the script currently works on MacOS Terminal. It may work on Linux Terminals. I haven't tried this script on any other system than my Macbook Air.
@@ -19,6 +19,7 @@ As far as I know, the script currently works on MacOS Terminal. It may work on L
 - First, use your favorite python editor to change the directories of the files like: /Users/user/Desktop/BotOSv1.0/thefile
 - Then, go to your Terminal and change the directory to the folder
 - Finally, use
+
 >python3 BotOSv1.0.py
 
-# Finally Enjoy :trollface:
+# Enjoy :trollface:
