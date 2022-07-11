@@ -14,6 +14,7 @@ As far as I know, the script currently works on MacOS Terminal. It may work on L
 - 1.6Ghz processor or better
 - Any sound card
 - Any low-end graphics card
+- All other requirements can be found using command: help
 
 # Setup
 - First, use your favorite python editor to change the directories of the files like: /Users/user/Desktop/BotOSv1.0/thefile
@@ -21,5 +22,7 @@ As far as I know, the script currently works on MacOS Terminal. It may work on L
 - Finally, use
 
 >python3 BotOSv1.0.py
+or
+>python BotOSv1.0.py
 
 # Enjoy :trollface:
